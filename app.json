@@ -1,0 +1,12 @@
+{
+  "name": "appflowcicd",
+  "displayName": "appflowcicd",
+  "expo": {
+    "name": "appflowcicd",
+    "slug": "appflowcicd",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
